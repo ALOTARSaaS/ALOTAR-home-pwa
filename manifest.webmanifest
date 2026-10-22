@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "ALOTAR Home · Servicios Domiciliarios",
+  "short_name": "ALOTAR Home",
+  "description": "Acceso a servicios domiciliarios para clientes y prestadores",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101217",
+  "theme_color": "#101217",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
