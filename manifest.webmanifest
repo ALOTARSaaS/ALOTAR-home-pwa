@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "ALOTAR Home · Servicios Domiciliarios",
+  "name": "ALOTAR Booking Home Services",
   "short_name": "ALOTAR Home",
-  "description": "Acceso a servicios domiciliarios para clientes y prestadores",
+  "description": "Servicios domiciliarios ALOTAR · Home Services",
   "lang": "es",
   "start_url": "/",
   "scope": "/",
@@ -14,13 +14,19 @@
       "src": "/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
